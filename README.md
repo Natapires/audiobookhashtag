@@ -17,6 +17,8 @@
   <img alt="AudioBook" src="preview.JPG" width="100%">
 </p>
 
+[🔗 Clique aqui para acessar](https://natapires.github.io/audiobookhashtag/)
+
 ## 🛠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
