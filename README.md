@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="AudioBook" src="" width="100%">
+  <img alt="AudioBook" src="preview.JPG" width="100%">
 </p>
 
 ## 🛠 Tecnologias
